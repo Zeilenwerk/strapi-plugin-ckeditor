@@ -4,6 +4,9 @@
 
 This package provides a custom field for Strapi that lets you use and configure CKEditor in no time.
 
+> :warning: This is a fork of the official CKEditor custom field plugin with link target decoratos enabled.
+
+
 Custom fields are supported since Strapi 4.4+ and offer powerful API to create highly customizable fields.
 
 This is an official plugin, provided to you by the [CKEditor team](https://ckeditor.com) 👋
